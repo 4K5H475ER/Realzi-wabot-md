@@ -22,10 +22,10 @@ global.owner = ['12268070102']
 global.premium = ['12268070102']
 global.meki = '12268070102'
 global.ownerNumber = '12268070102'
-global.packname = 'ᴀͥᴋͭsᷤʜᴀͫʏͤ'
+global.packname = 'с┤╣с┤┐снДс┤Ы═ж╔кс╖лsс╖лс┤Ь═ес┤Е═ис┤З═ес┤Нс╖зс┤Пс╖Э╔┤с┤о ═ж ═н'
 global.author = 'REALZI - BOT'
 global.sessionName = 'Fauzi'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','ЁЯРж','ЁЯРд','ЁЯЧ┐']
 global.Mode = 'Public'
 global.mess = {
     success: 'SUKSES!!.',
